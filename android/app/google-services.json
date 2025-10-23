@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8642162209",
+    "project_id": "authencity-f4bbc",
+    "storage_bucket": "authencity-f4bbc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8642162209:android:d95f5a64dd788822e3fd60",
+        "android_client_info": {
+          "package_name": "com.example.food_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8642162209-m5ljvnlnp5j47rh12ene9lns50t0s2tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_go",
+            "certificate_hash": "abc139f7e696fc31aa1a93fad86531a3da368119"
+          }
+        },
+        {
+          "client_id": "8642162209-jpsgkq21o3uo91sdm5r7adggqrd31ugm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGAlt0CoLZvQmfZZ7kjP2vfDU9dL7Dp8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8642162209-jpsgkq21o3uo91sdm5r7adggqrd31ugm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
